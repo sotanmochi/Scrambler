@@ -2,8 +2,18 @@
     "name": "jp.sotanmochi.scrambler",
     "displayName": "Scrambler",
     "description": "3D textured model encryption",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "unity": "2021.3",
     "license": "MIT",
-    "author": { "name": "Soichiro Sugimoto" }
+    "author": { "name": "Soichiro Sugimoto" },
+    "samples": [
+        {
+            "displayName": "TextureScrambler",
+            "path": "Samples~/TextureScrambler"
+        },
+        {
+            "displayName": "MeshScrambler",
+            "path": "Samples~/MeshScrambler"
+        }
+    ]
 }
